@@ -1,7 +1,16 @@
 /* Have fun. This is your site. */
 
 body {
-  background: lightgray;
+  background: black;
+  color: white;
+}
+
+h1 {
+  color: aquamarine;
+}
+
+a {
+  color: aquamarine;
 }
 
 /* Main Container */
